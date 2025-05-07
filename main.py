@@ -4,3 +4,6 @@ to_do_list =["pójść do sklepu","pójść do znajomego","pójść na pizze","g
 for each in to_do_list:
     print(each)
 print (number)
+
+#łomg ale fajny kołdzik!!!
+number = number +3
