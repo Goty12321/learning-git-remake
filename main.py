@@ -1,7 +1,7 @@
 lista_zakupów = {
     "piekarnia": ['chleb','pączek','bułki','gniazdko'],
     "warzywniak": ['marchew','seler','rukola'],
-    "stacja benzynowa": ['hotdog]']
+    "stacja benzynowa": ['hotdog]',['magazine']]
 }
 ilość_produktów = 0
 for key in lista_zakupów:
